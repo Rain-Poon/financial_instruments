@@ -7,18 +7,45 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		ED059D002930D1F000BEB850 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED059CFF2930D1F000BEB850 /* MapView.swift */; };
+		ED0C6390293AFF1A0038A7DD /* WatchlistChart.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED0C638F293AFF1A0038A7DD /* WatchlistChart.swift */; };
+		ED1D23C5295160A0001A3DBB /* SquareBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED1D23C4295160A0001A3DBB /* SquareBox.swift */; };
 		ED24F7A5292CD47300234B13 /* LandmarksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED24F7A4292CD47300234B13 /* LandmarksApp.swift */; };
 		ED24F7A7292CD47300234B13 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED24F7A6292CD47300234B13 /* ContentView.swift */; };
 		ED24F7A9292CD47500234B13 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED24F7A8292CD47500234B13 /* Assets.xcassets */; };
 		ED24F7AC292CD47500234B13 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED24F7AB292CD47500234B13 /* Preview Assets.xcassets */; };
+		ED24F7B3292D2CC800234B13 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED24F7B2292D2CC800234B13 /* CircleImage.swift */; };
+		ED4D0F812930F20400E0EF0F /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED4D0F802930F20400E0EF0F /* SearchBar.swift */; };
+		EDAFA1F22936015600838618 /* LineChart.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAFA1F12936015600838618 /* LineChart.swift */; };
+		EDAFA1F52936024400838618 /* SwiftUICharts in Frameworks */ = {isa = PBXBuildFile; productRef = EDAFA1F42936024400838618 /* SwiftUICharts */; };
+		EDBF71922943118C00A78A9F /* WatchlistItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBF71912943118C00A78A9F /* WatchlistItem.swift */; };
+		EDD3FC7A2931CD0300E6971A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD3FC792931CD0300E6971A /* AppDelegate.swift */; };
+		EDD3FC7C293254F200E6971A /* NavigationBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD3FC7B293254F200E6971A /* NavigationBar.swift */; };
+		EDEBD48629596A3E000CF4C3 /* Dashboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDEBD48529596A3E000CF4C3 /* Dashboard.swift */; };
+		EDF5EF9A29310FDF000F7D49 /* TopBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDF5EF9929310FDF000F7D49 /* TopBar.swift */; };
+		EDF5EF9C293114C6000F7D49 /* WelcomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDF5EF9B293114C6000F7D49 /* WelcomePage.swift */; };
+		EDF5EF9E2931188A000F7D49 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDF5EF9D2931188A000F7D49 /* Card.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		ED059CFF2930D1F000BEB850 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		ED0C638F293AFF1A0038A7DD /* WatchlistChart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WatchlistChart.swift; sourceTree = "<group>"; };
+		ED1D23C4295160A0001A3DBB /* SquareBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquareBox.swift; sourceTree = "<group>"; };
 		ED24F7A1292CD47300234B13 /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED24F7A4292CD47300234B13 /* LandmarksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksApp.swift; sourceTree = "<group>"; };
 		ED24F7A6292CD47300234B13 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		ED24F7A8292CD47500234B13 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ED24F7AB292CD47500234B13 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		ED24F7B2292D2CC800234B13 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		ED4D0F802930F20400E0EF0F /* SearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBar.swift; sourceTree = "<group>"; };
+		EDAFA1F12936015600838618 /* LineChart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LineChart.swift; sourceTree = "<group>"; };
+		EDBF71912943118C00A78A9F /* WatchlistItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WatchlistItem.swift; sourceTree = "<group>"; };
+		EDD3FC792931CD0300E6971A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		EDD3FC7B293254F200E6971A /* NavigationBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBar.swift; sourceTree = "<group>"; };
+		EDEBD48529596A3E000CF4C3 /* Dashboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dashboard.swift; sourceTree = "<group>"; };
+		EDF5EF9929310FDF000F7D49 /* TopBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopBar.swift; sourceTree = "<group>"; };
+		EDF5EF9B293114C6000F7D49 /* WelcomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomePage.swift; sourceTree = "<group>"; };
+		EDF5EF9D2931188A000F7D49 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +53,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EDAFA1F52936024400838618 /* SwiftUICharts in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -52,8 +80,21 @@
 			isa = PBXGroup;
 			children = (
 				ED24F7A4292CD47300234B13 /* LandmarksApp.swift */,
+				EDD3FC7B293254F200E6971A /* NavigationBar.swift */,
+				EDAFA1F12936015600838618 /* LineChart.swift */,
+				ED0C638F293AFF1A0038A7DD /* WatchlistChart.swift */,
 				ED24F7A6292CD47300234B13 /* ContentView.swift */,
 				ED24F7A8292CD47500234B13 /* Assets.xcassets */,
+				ED24F7B2292D2CC800234B13 /* CircleImage.swift */,
+				ED059CFF2930D1F000BEB850 /* MapView.swift */,
+				ED4D0F802930F20400E0EF0F /* SearchBar.swift */,
+				EDF5EF9929310FDF000F7D49 /* TopBar.swift */,
+				EDF5EF9B293114C6000F7D49 /* WelcomePage.swift */,
+				EDBF71912943118C00A78A9F /* WatchlistItem.swift */,
+				ED1D23C4295160A0001A3DBB /* SquareBox.swift */,
+				EDEBD48529596A3E000CF4C3 /* Dashboard.swift */,
+				EDD3FC792931CD0300E6971A /* AppDelegate.swift */,
+				EDF5EF9D2931188A000F7D49 /* Card.swift */,
 				ED24F7AA292CD47500234B13 /* Preview Content */,
 			);
 			path = Landmarks;
@@ -83,6 +124,9 @@
 			dependencies = (
 			);
 			name = Landmarks;
+			packageProductDependencies = (
+				EDAFA1F42936024400838618 /* SwiftUICharts */,
+			);
 			productName = Landmarks;
 			productReference = ED24F7A1292CD47300234B13 /* Landmarks.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +155,9 @@
 				Base,
 			);
 			mainGroup = ED24F798292CD47300234B13;
+			packageReferences = (
+				EDAFA1F32936024400838618 /* XCRemoteSwiftPackageReference "ChartView" */,
+			);
 			productRefGroup = ED24F7A2292CD47300234B13 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -138,7 +185,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				ED24F7A7292CD47300234B13 /* ContentView.swift in Sources */,
+				EDF5EF9A29310FDF000F7D49 /* TopBar.swift in Sources */,
+				ED059D002930D1F000BEB850 /* MapView.swift in Sources */,
+				EDD3FC7A2931CD0300E6971A /* AppDelegate.swift in Sources */,
+				EDAFA1F22936015600838618 /* LineChart.swift in Sources */,
+				ED4D0F812930F20400E0EF0F /* SearchBar.swift in Sources */,
+				EDD3FC7C293254F200E6971A /* NavigationBar.swift in Sources */,
+				EDEBD48629596A3E000CF4C3 /* Dashboard.swift in Sources */,
+				EDF5EF9C293114C6000F7D49 /* WelcomePage.swift in Sources */,
+				ED0C6390293AFF1A0038A7DD /* WatchlistChart.swift in Sources */,
+				EDBF71922943118C00A78A9F /* WatchlistItem.swift in Sources */,
+				ED1D23C5295160A0001A3DBB /* SquareBox.swift in Sources */,
 				ED24F7A5292CD47300234B13 /* LandmarksApp.swift in Sources */,
+				ED24F7B3292D2CC800234B13 /* CircleImage.swift in Sources */,
+				EDF5EF9E2931188A000F7D49 /* Card.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -337,6 +397,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		EDAFA1F32936024400838618 /* XCRemoteSwiftPackageReference "ChartView" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/AppPear/ChartView";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		EDAFA1F42936024400838618 /* SwiftUICharts */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = EDAFA1F32936024400838618 /* XCRemoteSwiftPackageReference "ChartView" */;
+			productName = SwiftUICharts;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = ED24F799292CD47300234B13 /* Project object */;
 }
